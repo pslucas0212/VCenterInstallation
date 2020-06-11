@@ -50,4 +50,4 @@
 4. Chose your option to particpate in the CEIP on the Configure CEIP screen and click next.
 5. Review the Ready to complete page and click the Finish button.
 
-![GitHub Logo](/images/NetworkingProperties04.png)
+![GitHub Logo](/images/ReadyToComplete07.png)
