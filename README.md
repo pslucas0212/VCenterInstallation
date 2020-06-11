@@ -27,7 +27,7 @@
 
 7. Add Networking Properties
 
-![GitHub Logo](/images/NNetworkingProperties04.png)
+![GitHub Logo](/images/NetworkingProperties04.png)
 
 
 8. Start up VM
