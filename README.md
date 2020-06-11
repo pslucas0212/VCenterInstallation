@@ -40,7 +40,7 @@
 1. Click the Setup Wizard and read the introduction.
 2. Review step 2 Appliance Configuration settings. Click Next.
 
-![GitHub Logo](/images/NetworkingProperties04.png)
+![GitHub Logo](/images/ApplianceConfiguration05.png)
 
 3. Configure the SSO Configuration page.
 
