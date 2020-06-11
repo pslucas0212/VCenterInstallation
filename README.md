@@ -33,6 +33,8 @@
 8. Start up VM
     - The VM is ready for the Set up steps when the started VM displays setup URL which point to the VCenter URL you specified in step 4 with a port address of 5480 -> vsca01.example.com:5480
 
+
+
 ## Setup Steps
 
 1. Click the Setup Wizard and read the introduction.
