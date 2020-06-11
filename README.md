@@ -35,6 +35,17 @@
 
 ## Setup Steps
 
-SystemConfigurationPassword03.png	
-NetworkingProperties04.png	
-SSOConfigPassword01.png
+1. Click the Setup Wizard and read the introduction.
+2. Review step 2 Appliance Configuration settings. Click Next.
+
+![GitHub Logo](/images/NetworkingProperties04.png)
+
+3. Configure the SSO Configuration page.
+
+![GitHub Logo](/images/NetworkingProperties04.png)
+
+
+4. Chose your option to particpate in the CEIP on the Configure CEIP screen and click next.
+5. Review the Ready to complete page and click the Finish button.
+
+![GitHub Logo](/images/NetworkingProperties04.png)
