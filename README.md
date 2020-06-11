@@ -44,7 +44,7 @@
 
 3. Configure the SSO Configuration page.
 
-![GitHub Logo](/images/NetworkingProperties04.png)
+![GitHub Logo](/images/SOConfiguration06.png)
 
 
 4. Chose your option to particpate in the CEIP on the Configure CEIP screen and click next.
