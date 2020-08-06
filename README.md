@@ -4,7 +4,7 @@
 ### Note: This is not a definitive installation guide.  Please check the vCenter installation documentation for the official installation instructions.
 
 ### Pre-Req
-1. This is an example install guie for vCenter Server Appliance 6.7 to support vMware EXSi 6.7 servers.
+1. This is an example install guide for vCenter Server Appliance 6.7 to support vMware EXSi 6.7 servers.
 2. DNS must be configured and all host vSphere Cluster members need a FQDN including the vCenter Appliance.
 3. Point all vSphere cluster members to the same time source.  
 
