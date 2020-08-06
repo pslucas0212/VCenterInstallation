@@ -15,27 +15,27 @@
 ![](/images/SelectCreationType.png)
 
 5. Follow the VM creation wizard steps.  Chose the default settings until you get to step 6 in the VM wizard.  Note: you will point to a local copy of the OVA file and upload also via the wizard.  The exclamation to the right of each text field provides help for completing the information in the text field.
-4. Follow the following example screen shots to complete step 6 Network Configuration settings in the VM wizard.
+6. Follow the following example screen shots to complete step 6 Network Configuration settings in the VM wizard.
 
 ![GitHub Logo](/images/NetworkConfiguration01.png)
 
 
-5. Add SSO Configuration Password
+7. Add SSO Configuration Password
 
 ![GitHub Logo](/images/SSOConfigPassword01.png)
 
 
-6. Add System Configuration Password
+8. Add System Configuration Password
 
 ![GitHub Logo](/images/SystemConfigurationPassword03.png)
 
 
-7. Add Networking Properties
+9. Add Networking Properties
 
 ![GitHub Logo](/images/NetworkingProperties04.png)
 
 
-8. Start up VM
+10. Start up VM
     - The VM is ready for the Set up steps when the started VM displays setup URL which point to the VCenter URL you specified in step 4 with a port address of 5480 -> https://vsca01.example.com:5480  Note: In Firefox you seem to need to add the https:// to the url.
 
 
