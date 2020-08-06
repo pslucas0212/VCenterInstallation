@@ -48,7 +48,7 @@
 
 ![GitHub Logo](/images/ApplianceConfiguration05.png)
 
-3. Configure the SSO Configuration page.
+3. Configure the SSO Configuration page.  Choose a single sigh-on domain.  I chose vsphere.local.  Create a single sign-on password.
 
 ![GitHub Logo](/images/SSOConfiguration06.png)
 
