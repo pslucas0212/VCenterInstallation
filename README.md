@@ -62,3 +62,7 @@
 6. Once you see 35% on the Install - Stage 2 screen, you have likely configured the appliance correctly and the installation will successfully complete.
 
 ![](/images/install2.png)
+
+7. Success!
+
+![](/images/success.png)
