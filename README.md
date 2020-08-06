@@ -1,7 +1,7 @@
 # vCenter Sever Appliance Installation Notes
 
-## As quick guide to installing vCenter Server Appliance
-### Note: This is not a definitive installation guide.  Please check the vCenter installation documentation for the official installation instructions.
+## A quick guide to installing vCenter Server Appliance
+#### Note: This is not a definitive installation guide.  Please check the vCenter installation documentation for the official installation instructions.
 
 ### Pre-Req
 1. This is an example install guide for vCenter Server Appliance 6.7 to support vMware EXSi 6.7 servers.
