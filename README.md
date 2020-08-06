@@ -12,7 +12,7 @@
 3. On the EXSi console, chose to Create/Register a VM.  
 4. Chose "Deploy a virtual machind from a OVF or OVA file" option during Step 1. Selectation Creation TYpe in the New Virtual Machine dialog box.
 
-![](SelectCreationType.png)
+![](/images/SelectCreationType.png)
 
 5. Follow the VM creation wizard steps.  Chose the default settings until you get to step 6 in the VM wizard.  Note: you will point to a local copy of the OVA file and upload also via the wizard.  The exclamation to the right of each text field provides help for completing the information in the text field.
 4. Follow the following example screen shots to complete step 6 Network Configuration settings in the VM wizard.
